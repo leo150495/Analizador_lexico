@@ -1,0 +1,10 @@
+C:\Users\Leo\source\repos\Analizador_lexico\Analizadorlexico\bin\Debug\Analizadorlexico.exe.config
+C:\Users\Leo\source\repos\Analizador_lexico\Analizadorlexico\bin\Debug\Analizadorlexico.exe
+C:\Users\Leo\source\repos\Analizador_lexico\Analizadorlexico\bin\Debug\Analizadorlexico.pdb
+C:\Users\Leo\source\repos\Analizador_lexico\Analizadorlexico\obj\Debug\Analizadorlexico.csprojResolveAssemblyReference.cache
+C:\Users\Leo\source\repos\Analizador_lexico\Analizadorlexico\obj\Debug\Analizadorlexico.Form1.resources
+C:\Users\Leo\source\repos\Analizador_lexico\Analizadorlexico\obj\Debug\Analizadorlexico.Properties.Resources.resources
+C:\Users\Leo\source\repos\Analizador_lexico\Analizadorlexico\obj\Debug\Analizadorlexico.csproj.GenerateResource.Cache
+C:\Users\Leo\source\repos\Analizador_lexico\Analizadorlexico\obj\Debug\Analizadorlexico.csproj.CoreCompileInputs.cache
+C:\Users\Leo\source\repos\Analizador_lexico\Analizadorlexico\obj\Debug\Analizadorlexico.exe
+C:\Users\Leo\source\repos\Analizador_lexico\Analizadorlexico\obj\Debug\Analizadorlexico.pdb
